@@ -2,7 +2,7 @@
 
 LUE TEHTÄVÄNANTO HUOLELLA!
 
-Tehtävä (2p): 
+Tehtävä (10p): 
 
 1. Luo Android sovellus, joka sisältää ainakin:
     * 2 tekstinsyöttökomponenttia
@@ -23,8 +23,8 @@ Tehtävä (2p):
 
 
 Puuttuvista ominaisuuksista seuraavat rangaistukset:
-*  -1p jos kaikkia vaadittuja komponentteja ei löydy
-*  -1p jos kuuntelijat puuttuu
-*  -1p jos git commitit puuttuu
-*  -1p jos näyttökuva puuttuu
-*  -0.5p jos ohjelmassa on suorituksen estävä ongelma
+*  -5p jos kaikkia vaadittuja komponentteja ei löydy
+*  -5p jos kuuntelijat puuttuu
+*  -5p jos git commitit puuttuu
+*  -5p jos näyttökuva puuttuu
+*  -2.5p jos ohjelmassa on suorituksen estävä ongelma
